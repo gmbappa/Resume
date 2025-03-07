@@ -1,6 +1,10 @@
 # Resume
-I am Microsoft Certified Professional (MCP), Experienced in financial solutions 
-with .NET & Other Cutting-Edge Technology. 9+ years of professional 
-experience in developing ERP like Human Resource, Payroll, Inventory, 
-Accounting, CRM, Provident Fund for Garments/Textiles/Spinning 
-/Manufacturing Industries, Corporate & MNC
+Microsoft Certified Professional (MCP) with 9+ years of experience delivering .NET-based enterprise and ERP solutions for diverse industries, including healthcare and manufacturing. Expertise in API optimization, Agile methodologies, and full-stack development, with a proven record of reducing operational costs by 20% and enhancing system reliability.
+
+## Technical Skills
+**Programming Languages:** C#, ASP.NET Core, TypeScript, JavaScript, Python
+**Frameworks:** Angular, ASP.NET MVC, ADO.NET, LINQ, Microservices
+**Databases:** SQL Server, PostgreSQL, MySQL, Oracle
+**Tools:** Azure DevOps, Git, TFS, SonarQube
+**Reporting Tools:** Crystal Reports, RDLC Reports, VBReport8
+**Development Methodologies:** Agile, Scrum
